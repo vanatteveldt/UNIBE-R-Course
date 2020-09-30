@@ -10,7 +10,7 @@ We have two sessions per day. Each session has the following routine:
 2. Interactive Q&A (plenary zoom) 
 3. Supervised practice session (zoom breakout rooms)
 
-The interactive part is 10:30 - 12:00 for the morning session and 14:30 - 16:00 for the afternoon session. Please make sure that you have read the background reading, watched the introduction, and played a little bit on your own before that time so you have your questions ready for the Q&A.
+On Monday, the interactive session starts 10:00. All other days, the interactive sessions will be 10:30 - 12:00 for the morning session and 14:30 - 16:00 for the afternoon session. Please make sure that you have read the background reading, watched the introduction, and played a little bit on your own before that time so you have your questions ready for the Q&A.
 
 * Topics
 
