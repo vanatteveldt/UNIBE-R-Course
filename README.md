@@ -18,7 +18,7 @@ The table below (will) contain(s) the links to the videos, background reading, a
 
 | Time | Session | Reading | Handouts | 
 | --- | --- | --- | --- |
-| Mon AM | R is fun! |   | [Fun with R]() ; [Getting Started](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_basics_1_getting_started.md) ; [Data and functions](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_basics_2_data_and_functions.md) |
+| Mon AM | [Introduction to R](https://youtu.be/PVhZD5MINYM) ; R is fun! |   | [Getting Started](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_basics_1_getting_started.md) ; [Data and functions](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_basics_2_data_and_functions.md) |
 | Mon PM | Tidyverse I: Importinng & cleaning data|  |  |
 | Tue AM | Tidyverse II: Summarizing * reshaping|  |  |
 | Tue PM | Visualizing with ggplot |  |  |
