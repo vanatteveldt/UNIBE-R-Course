@@ -10,22 +10,41 @@ We have two sessions per day. Each session has the following routine:
 2. Interactive Q&A (plenary zoom) 
 3. Supervised practice session (zoom breakout rooms)
 
-On Monday, the interactive session starts 10:00. All other days, the interactive sessions will be 10:30 - 12:00 for the morning session and 14:30 - 16:00 for the afternoon session. Please make sure that you have read the background reading, watched the introduction, and played a little bit on your own before that time so you have your questions ready for the Q&A.
-
-* Topics
-
-The table below (will) contain(s) the links to the videos, background reading, and handouts. 
-
-| Time | Session | Reading | Handouts | 
-| --- | --- | --- | --- |
-| Mon AM | [Introduction to R](https://youtu.be/PVhZD5MINYM) ; R is fun! |   | [Getting Started](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_basics_1_getting_started.md) ; [Data and functions](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_basics_2_data_and_functions.md) |
-| Mon PM | Tidyverse I: Importinng & cleaning data|  |  |
-| Tue AM | Tidyverse II: Summarizing * reshaping|  |  |
-| Tue PM | Visualizing with ggplot |  |  |
-| Wed AM | Quantitative text Analysis with Quanteda|  |  |
-| Wed PM | Dictionary analysis, corpus statistics |  |  |
-| Thu AM | Simple Web Scraping and preprocessing |  |  |
-| Thu PM | Topic Modeling |  |  |
-| Fri AM | Structural Topic Models |  |  |
-| Fri PM | Sentiment Analysis |  |  |
+Schedule and materials: (will be updated during the course)
+ 
++ Monday AM: **Introduction to R & Rstudio**
+  + Preparation / background reading: 
+    + Install RStudio: [Getting Started](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_basics_1_getting_started.md)  
+    + CAC chs. 1, 2, 3 (TBA)
+    + [R4DS chapter 4](https://r4ds.had.co.nz/workflow-basics.html)
+  + 9:00: Video lectures: [introduction to R & Rstudio](https://youtu.be/PVhZD5MINYM), R is fun! (TBA)
+  + 10:00: Plenary session: Introduction, Q&A
+  + 11:00 - 12:00: Supervised practice: [Fun with R]();  [Data and functions](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorial/R_basics_2_data_and_functions.md)
++ Monday PM: **Tidyverse I: Importing, Cleaning, and summarizing Data**
+  + Preparation / background reading: 
+    + CAC chapters 6 and 7
+    + [R4DS chapter 5](https://r4ds.had.co.nz/transform.html)
+  + 13:00: Video lecture: Importing and Cleaning data
+  + 14:00: Plenary Session / Q&A
+  + 14:30 - 15:30; Supervised Practice: [Transforming Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5-transformation.md)
+  
++ Tuesday AM: **Tidyverse II: Summarizing & Reshaping**
+  + Preparation / background reading: 
+  + 9:00: Video lectures: Reshaping & Combining Data
+  + 10:00: Plenary session / Q&A
+  + 10:30 - 11:30: Supervised practice: [Reshaping Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-12-reshaping.md), [Merging Data Sets](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-13a-joining.md)
++ Tuesday PM: **Visualization with GGPlot**
+  + Preparation / background reading: 
+    + CAC chapter 8
+    + [R4DS chapter 7](https://r4ds.had.co.nz/exploratory-data-analysis.html)
+  + 12:30: Video lecture: Visualization with GGPlot
+  + 13:30: Plenary session / Q&A
+  + 14:00 - 15:00: Supervised practice: [Data Visualization](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-3_7-visualization.md)
+  
++ Wed AM: **Quantitative text Analysis with Quanteda**
++ Wed PM: **Dictionary analysis, corpus statistics**
++ Thu AM: **Simple Web Scraping and preprocessing**
++ Thu PM: **Topic Modeling**
++ Fri AM: **Structural Topic Models**
++ Fri PM: **Sentiment Analysis**
 
