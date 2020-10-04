@@ -15,14 +15,14 @@ Schedule and materials: (will be updated during the course)
 + Monday AM: **Introduction to R & Rstudio**
   + Preparation / background reading: 
     + Install RStudio: [Getting Started](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_basics_1_getting_started.md)  
-    + CAC chs. 1, 2, 3 (TBA)
+    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf), chs. 1, 2, 3 
     + [R4DS chapter 4](https://r4ds.had.co.nz/workflow-basics.html)
   + 9:00: Video lectures: [introduction to R & Rstudio](https://youtu.be/PVhZD5MINYM), R is fun! (TBA)
   + 10:00: Plenary session: Introduction, Q&A
   + 11:00 - 12:00: Supervised practice: [Fun with R]();  [Data and functions](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorial/R_basics_2_data_and_functions.md)
 + Monday PM: **Tidyverse I: Importing, Cleaning, and summarizing Data**
   + Preparation / background reading: 
-    + CAC chapters 6 and 7
+    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 6 and 7
     + [R4DS chapter 5](https://r4ds.had.co.nz/transform.html)
   + 13:00: Video lecture: Importing and Cleaning data
   + 14:00: Plenary Session / Q&A
@@ -35,7 +35,7 @@ Schedule and materials: (will be updated during the course)
   + 10:30 - 11:30: Supervised practice: [Reshaping Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-12-reshaping.md), [Merging Data Sets](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-13a-joining.md)
 + Tuesday PM: **Visualization with GGPlot**
   + Preparation / background reading: 
-    + CAC chapter 8
+    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapter 8
     + [R4DS chapter 7](https://r4ds.had.co.nz/exploratory-data-analysis.html)
   + 12:30: Video lecture: Visualization with GGPlot
   + 13:30: Plenary session / Q&A
