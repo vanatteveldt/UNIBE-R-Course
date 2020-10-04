@@ -17,7 +17,7 @@ Schedule and materials: (will be updated during the course)
     + Install RStudio: [Getting Started](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_basics_1_getting_started.md)  
     + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf), chs. 1, 2, 3 
     + [R4DS chapter 4](https://r4ds.had.co.nz/workflow-basics.html)
-  + 9:00: Video lectures: [introduction to R & Rstudio](https://youtu.be/PVhZD5MINYM), R is fun! (TBA)
+  + 9:00: Video lectures: [introduction to R & Rstudio](https://youtu.be/PVhZD5MINYM), [R is fun!](https://youtu.be/eYCV8kIsgGs)
   + 10:00: Plenary session: Introduction, Q&A
   + 11:00 - 12:00: Supervised practice: [Fun with R]();  [Data and functions](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorial/R_basics_2_data_and_functions.md)
 + Monday PM: **Tidyverse I: Importing, Cleaning, and summarizing Data**
