@@ -28,8 +28,11 @@ Schedule and materials: (will be updated during the course)
   + 14:00: Plenary Session / Q&A
   + 14:30 - 15:30; Supervised Practice: [Transforming Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5-transformation.md) [Summarizing Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5b-groupby.md)
   
-+ Tuesday AM: **Tidyverse III & IV: Summarizing & Reshaping**
++ Tuesday AM: **Tidyverse III & IV: Reshaping and Merging**
   + Preparation / background reading: 
+    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapter 7
+    + [R4DS chapter 12](https://r4ds.had.co.nz/tidy-data.html) and [13](https://r4ds.had.co.nz/relational-data.html)
+    
   + 9:00: Video lectures: [Reshaping data](https://www.youtube.com/watch?v=j4lZWJ3Osr8&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=5) & [Joining Data](https://www.youtube.com/watch?v=gg87Nv98VhQ&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=6)
   + 10:00: Plenary session / Q&A
   + 10:30 - 11:30: Supervised practice: [Reshaping Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-12-reshaping.md), [Merging Data Sets](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-13a-joining.md)
