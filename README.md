@@ -24,7 +24,7 @@ Schedule and materials: (will be updated during the course)
   + Preparation / background reading: 
     + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 6 and 7
     + [R4DS chapter 5](https://r4ds.had.co.nz/transform.html)
-  + 13:00: Video lectures: [Importing and Cleaning data](https://www.youtube.com/watch?v=CATqkFiZljU&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=3), [Grouping and Summarizing](https://youtu.be/lde7wLORQpo)
+  + 13:00: Video lectures: [Importing and Cleaning data](https://www.youtube.com/watch?v=CATqkFiZljU&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=3), [Grouping and Summarizing](https://www.youtube.com/watch?v=lde7wLORQpo&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=4)
   + 14:00: Plenary Session / Q&A
   + 14:30 - 15:30; Supervised Practice: [Transforming Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5-transformation.md) [Summarizing Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5b-groupby.md)
   
