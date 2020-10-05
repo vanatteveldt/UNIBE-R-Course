@@ -37,9 +37,12 @@ Schedule and materials: (will be updated during the course)
   + 10:00: Plenary session / Q&A
   + 10:30 - 11:30: Supervised practice: [Reshaping Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-12-reshaping.md), [Merging Data Sets](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-13a-joining.md)
 + Tuesday PM: **Visualization with GGPlot**
-  + Preparation / background reading: 
+  + Preparation / background reading / links: 
     + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapter 8
     + [R4DS chapter 7](https://r4ds.had.co.nz/exploratory-data-analysis.html)
+    + [Data Visualization: A practical introduction (Kieran Healy)](https://socviz.co/)
+    + [The R Graph Gallery](https://www.r-graph-gallery.com/)
+    + [Data-to-Viz](https://www.data-to-viz.com/)
   + 12:30: Video lecture: Visualization with GGPlot
   + 13:30: Plenary session / Q&A
   + 14:00 - 15:00: Supervised practice: [Data Visualization](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-3_7-visualization.md)
