@@ -48,12 +48,12 @@ Schedule and materials: (will be updated during the course)
   + 14:00 - 15:00: Supervised practice: [Data Visualization](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r-tidy-3_7-visualization.md)
   
 + Wed AM: **Quantitative text Analysis with Quanteda**
- + Preparation / background reading:
-   + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 10 and 11
-   + [Welbers, Atteveldt & Benoit (2017, CMM) Text Analysis using R](http://vanatteveldt.com/p/welbers-text-r.pdf) 
- + 9:00: Video lecture: **Quantitative Text Analysis**
- + 10:00: Plenary session / Q&A
- + 10:30 - 12:00:Supervised practice: [Quantitative Text Analysis](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_text_3_quanteda.md)
+  + Preparation / background reading:
+    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 10 and 11
+    + [Welbers, Atteveldt & Benoit (2017, CMM) Text Analysis using R](http://vanatteveldt.com/p/welbers-text-r.pdf) 
+  + 9:00: Video lecture: **Quantitative Text Analysis**
+  + 10:00: Plenary session / Q&A
+  + 10:30 - 12:00:Supervised practice: [Quantitative Text Analysis](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_text_3_quanteda.md)
 + Wed PM: **Dictionary analysis, corpus statistics**
   + Preparation / background reading:
     + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 11 and 12.1
