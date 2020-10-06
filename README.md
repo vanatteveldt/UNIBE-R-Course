@@ -52,7 +52,7 @@ Schedule and materials: (will be updated during the course)
     + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 10 and 11
     + [Welbers, Atteveldt & Benoit (2017, CMM) Text Analysis using R](http://vanatteveldt.com/p/welbers-text-r.pdf) 
     + [Grimmer & Stewart (2013, PA) Text as Data](http://www.collingwoodresearch.com/uploads/8/3/6/0/8360930/grimmer_and_stewart_2012.pdf)
-  + 9:00: Video lecture: **Quantitative Text Analysis**
+  + 9:00: Video lecture: [Dealing with textual data]() [Quantitative Text Analysis](https://www.youtube.com/watch?v=O6CGXnxPHok&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=1) [Advanced preprocessing](https://www.youtube.com/watch?v=tQoCjVat6UE&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=2) [Demo: Corpus Statistics](https://www.youtube.com/watch?v=7z7U7ORFWQM&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=3) 
   + 10:00: Plenary session / Q&A
   + 10:30 - 12:00:Supervised practice: [Basic String Handling](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-14-strings.md), [Quantitative Text Analysis](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_text_3_quanteda.md), [Getting Textual Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/Gathering_data.md)
   
@@ -60,7 +60,7 @@ Schedule and materials: (will be updated during the course)
   + Preparation / background reading:
     + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 11 and 12.1
     + [Van Atteveldt, Velden & Boukes (2020), Automatic Sentiment Analysis](http://vanatteveldt.com/wp-content/uploads/atteveldt_sentiment.pdf) **Under review - please do not distribute**
-   + 13:00: Video lecture: *Dictionary Analysis and Corpus Statistics*
+   + 13:00: Video lecture: [Analysing Text](https://www.youtube.com/watch?v=bHa2CClBYFw&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=4) [Demo: Sentiment Analysis](https://www.youtube.com/watch?v=U0l5GB0i3uU&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=5)
    + 14:00: Plenary session / Q&A
    + 14:30 - 16:00: Supervised practice: [Lexical Sentiment Analysis](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/sentiment_analysis.md)
    
