@@ -51,9 +51,11 @@ Schedule and materials: (will be updated during the course)
   + Preparation / background reading:
     + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 10 and 11
     + [Welbers, Atteveldt & Benoit (2017, CMM) Text Analysis using R](http://vanatteveldt.com/p/welbers-text-r.pdf) 
+    + [Grimmer & Stewart (2013, PA) Text as Data](http://www.collingwoodresearch.com/uploads/8/3/6/0/8360930/grimmer_and_stewart_2012.pdf)
   + 9:00: Video lecture: **Quantitative Text Analysis**
   + 10:00: Plenary session / Q&A
-  + 10:30 - 12:00:Supervised practice: [Quantitative Text Analysis](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_text_3_quanteda.md)
+  + 10:30 - 12:00:Supervised practice: [Basic String Handling](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-14-strings.md), [Quantitative Text Analysis](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_text_3_quanteda.md), [Getting Textual Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/Gathering_data.md)
+  
 + Wed PM: **Dictionary analysis, corpus statistics**
   + Preparation / background reading:
     + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 11 and 12.1
@@ -63,7 +65,21 @@ Schedule and materials: (will be updated during the course)
    + 14:30 - 16:00: Supervised practice: [Lexical Sentiment Analysis](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/sentiment_analysis.md)
    
 + Thu AM: **Simple Web Scraping and preprocessing**
+  + Preparation / background reading:
+    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 13
+  + 9:00: Video lecture: **Web scraping**, **Preprocessing**
+  + 10:00: Plenary session / Q&A
+  + 10:30 - 12:00:Supervised practice: **Scraping with rvest**, **Accessing social media APIs**, [Linguistic Preprocessing](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_nlp.md)
 + Thu PM: **Topic Modeling**
+  + Preparation / background reading:
+    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 12.3
+    + [Chang et al. (2009) Reading Tea Leaves: How Humans Interpret Topic Models](https://papers.nips.cc/paper/3700-reading-tea-leaves-how-humans-interpret-topic-models)
+  + 13:00: Video lecture: *Topic Modeling*
+  + 14:00: Plenary session / Q&A
+  + 14:30 - 16:00: Supervised practice: [LDA in R](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_lda.md)
+   
 + Fri AM: **Structural Topic Models**
+  + Preparation / background reading:
+    + [Structural Topic Modeling Vignette](https://github.com/bstewart/stm/blob/master/vignettes/stmVignette.pdf?raw=true) (see also [www.structuraltopicmodel.com](http://www.structuraltopicmodel.com))
 + Fri PM: **Sentiment Analysis**
 
