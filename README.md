@@ -56,7 +56,7 @@ Schedule and materials: (will be updated during the course)
   + 10:00: Plenary session / Q&A
   + 10:30 - 12:00:Supervised practice: [Basic String Handling](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-14-strings.md), [Quantitative Text Analysis](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_text_3_quanteda.md)
   
-+ Wed PM: **Dictionary analysis, corpus statistics**
++ Wed PM: **Dictionary analysis and Sentiment Analysis**
   + Preparation / background reading:
     + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 11 and 12.1
     + [Van Atteveldt, Velden & Boukes (2020), Automatic Sentiment Analysis](http://vanatteveldt.com/wp-content/uploads/atteveldt_sentiment.pdf) *(Under review - please do not distribute)*
@@ -81,5 +81,5 @@ Schedule and materials: (will be updated during the course)
 + Fri AM: **Structural Topic Models**
   + Preparation / background reading:
     + [Structural Topic Modeling Vignette](https://github.com/bstewart/stm/blob/master/vignettes/stmVignette.pdf?raw=true) (see also [www.structuraltopicmodel.com](http://www.structuraltopicmodel.com))
-+ Fri PM: **Sentiment Analysis**
++ Fri PM: **Supervised Text Classification**
 
