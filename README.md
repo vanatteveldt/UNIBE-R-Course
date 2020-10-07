@@ -24,7 +24,7 @@ Schedule and materials: (will be updated during the course)
   + Preparation / background reading: 
     + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 6 and 7
     + [R4DS chapter 5](https://r4ds.had.co.nz/transform.html)
-  + 13:00: Video lectures: [Importing and Cleaning data](https://www.youtube.com/watch?v=CATqkFiZljU&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=3), [Grouping and Summarizing](https://www.youtube.com/watch?v=lde7wLORQpo&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=4)
+  + 13:00: Video lectures: [Importing and Cleaning data](https://www.youtube.com/watch?v=CATqkFiZljU&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=3), [Grouping and Summarizing](https://www.youtube.com/watch?v=lde7wLORQpo&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=4), [Importing Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/Gathering_data.md)
   + 14:00: Plenary Session / Q&A
   + 14:30 - 15:30; Supervised Practice: [Transforming Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5-transformation.md) [Summarizing Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-5b-groupby.md)
   
@@ -54,7 +54,7 @@ Schedule and materials: (will be updated during the course)
     + [Grimmer & Stewart (2013, PA) Text as Data](http://www.collingwoodresearch.com/uploads/8/3/6/0/8360930/grimmer_and_stewart_2012.pdf)
   + 9:00: Video lecture: [Dealing with textual data](https://www.youtube.com/watch?v=ofOJiuaHV2w&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=8), [Quantitative Text Analysis](https://www.youtube.com/watch?v=O6CGXnxPHok&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=1), [Advanced preprocessing](https://www.youtube.com/watch?v=tQoCjVat6UE&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=2), [Demo: Corpus Statistics](https://www.youtube.com/watch?v=7z7U7ORFWQM&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=3) 
   + 10:00: Plenary session / Q&A
-  + 10:30 - 12:00:Supervised practice: [Basic String Handling](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-14-strings.md), [Quantitative Text Analysis](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_text_3_quanteda.md), [Getting Textual Data](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/Gathering_data.md)
+  + 10:30 - 12:00:Supervised practice: [Basic String Handling](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-14-strings.md), [Quantitative Text Analysis](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_text_3_quanteda.md)
   
 + Wed PM: **Dictionary analysis, corpus statistics**
   + Preparation / background reading:
