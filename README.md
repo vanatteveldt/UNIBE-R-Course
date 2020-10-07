@@ -64,22 +64,30 @@ Schedule and materials: (will be updated during the course)
    + 14:00: Plenary session / Q&A
    + 14:30 - 16:00: Supervised practice: [Lexical Sentiment Analysis](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/sentiment_analysis.md)
    
-+ Thu AM: **Simple Web Scraping and preprocessing**
+
++ Thu AM: **Topic Modeling**
+  + Preparation / background reading:
+    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 12.3
+    + [Chang et al. (2009) Reading Tea Leaves: How Humans Interpret Topic Models](https://papers.nips.cc/paper/3700-reading-tea-leaves-how-humans-interpret-topic-models)
+  +  9:00: Video lecture: [Topic Modeling with LDA](https://www.youtube.com/playlist?list=PLjXODJ_lGN_WtxhPsQ_t0aHtFAcsIh1-8)
+  + 10:00: Plenary session / Q&A
+  + 10:30 - 12:00: Supervised practice: [LDA in R](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_lda.md) ; [Creating a Topic Browser](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_text_topicbrowser.md) 
+  + Additional links: 
+    + [SVD and dimensionality reduction](https://htmlpreview.github.io/?https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/graphical_interpretation.html)
+    + [Computing perplexity](https://github.com/vanatteveldt/learningr/blob/master/topicmodels/perplexity.R) 
+    + [Build your own gibbs sampler in R](https://github.com/vanatteveldt/learningr/blob/master/topicmodels/lda_sampler.R) 
+    + [Animated Gibbs sampler](https://github.com/vanatteveldt/learningr/blob/master/topicmodels/lda_anim.R) 
++ Thu PM: **Structural Topic Models**
+  + Preparation / background reading:
+    + [Structural Topic Modeling Vignette](https://github.com/bstewart/stm/blob/master/vignettes/stmVignette.pdf?raw=true) (see also [www.structuraltopicmodel.com](http://www.structuraltopicmodel.com))
+  + 13:00: Video Lecture: 
+  + 14:00: Plenary Session / Q&A
+  + 14:30 - 16:00: Supervised practice: [Structural Topic Models](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_stm.md)
++ Fri AM: **Simple Web Scraping and preprocessing**
   + Preparation / background reading:
     + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 13
   + 9:00: Video lecture: **Web scraping**, **Preprocessing**
   + 10:00: Plenary session / Q&A
   + 10:30 - 12:00:Supervised practice: **Scraping with rvest**, **Accessing social media APIs**, [Linguistic Preprocessing](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_nlp.md)
-+ Thu PM: **Topic Modeling**
-  + Preparation / background reading:
-    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 12.3
-    + [Chang et al. (2009) Reading Tea Leaves: How Humans Interpret Topic Models](https://papers.nips.cc/paper/3700-reading-tea-leaves-how-humans-interpret-topic-models)
-  + 13:00: Video lecture: *Topic Modeling*
-  + 14:00: Plenary session / Q&A
-  + 14:30 - 16:00: Supervised practice: [LDA in R](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_lda.md)
-   
-+ Fri AM: **Structural Topic Models**
-  + Preparation / background reading:
-    + [Structural Topic Modeling Vignette](https://github.com/bstewart/stm/blob/master/vignettes/stmVignette.pdf?raw=true) (see also [www.structuraltopicmodel.com](http://www.structuraltopicmodel.com))
 + Fri PM: **Supervised Text Classification**
 
