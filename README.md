@@ -77,12 +77,14 @@ Schedule and materials: (will be updated during the course)
     + [Computing perplexity](https://github.com/vanatteveldt/learningr/blob/master/topicmodels/perplexity.R) 
     + [Build your own gibbs sampler in R](https://github.com/vanatteveldt/learningr/blob/master/topicmodels/lda_sampler.R) 
     + [Animated Gibbs sampler](https://github.com/vanatteveldt/learningr/blob/master/topicmodels/lda_anim.R) 
+    
 + Thu PM: **Structural Topic Models**
   + Preparation / background reading:
     + [Structural Topic Modeling Vignette](https://github.com/bstewart/stm/blob/master/vignettes/stmVignette.pdf?raw=true) (see also [www.structuraltopicmodel.com](http://www.structuraltopicmodel.com))
-  + 13:00: Video Lecture: 
+  + 13:00: Video Lecture: [Variants of Topic Models](https://www.youtube.com/watch?v=3rqkSqKp85s&list=PLjXODJ_lGN_U02yQyZG5YpBgseVpiS9s2&index=2&t=0s) [Structural Topic Models](https://www.youtube.com/watch?v=37yvQdQw5j8&list=PLjXODJ_lGN_U02yQyZG5YpBgseVpiS9s2&index=2)
   + 14:00: Plenary Session / Q&A
   + 14:30 - 16:00: Supervised practice: [Structural Topic Models](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_stm.md)
+  
 + Fri AM: **Simple Web Scraping and preprocessing**
   + Preparation / background reading:
     + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 13
