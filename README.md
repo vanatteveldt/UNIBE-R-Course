@@ -74,6 +74,7 @@ Schedule and materials: (will be updated during the course)
   + 10:30 - 12:00: Supervised practice: [LDA in R](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_lda.md) ; [Creating a Topic Browser](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_text_topicbrowser.md) 
   + Additional links: 
     + [SVD and dimensionality reduction](https://htmlpreview.github.io/?https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/graphical_interpretation.html)
+    + [Understanding Alpha](http://i.amcat.nl/lda/understanding_alpha.html)
     + [Computing perplexity](https://github.com/vanatteveldt/learningr/blob/master/topicmodels/perplexity.R) 
     + [Build your own gibbs sampler in R](https://github.com/vanatteveldt/learningr/blob/master/topicmodels/lda_sampler.R) 
     + [Animated Gibbs sampler](https://github.com/vanatteveldt/learningr/blob/master/topicmodels/lda_anim.R) 
