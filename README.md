@@ -90,6 +90,8 @@ Schedule and materials: (will be updated during the course)
   + Preparation / background reading:
     + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 9 and 12.2
     + [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), esp. [chapter 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
+    + [Neural Network Methods in NLP](https://www.amazon.nl/Network-Methods-Natural-Language-Processing/dp/1627052984) (really nice and relatively readable intro to deep learnign)
+    + [Foundations of Statistical NLP](https://www.amazon.com/exec/obidos/ASIN/0262133601) (old but still good background)
   + 10:00 Live lecture: [Machine Learning and Supervised Text Classification](https://docs.google.com/presentation/d/11uZrdmnZVHJdzNyNipfUITARHtsuBlFCIcJDVH1DDyM/edit?usp=sharing)
   + 11:00 - 12:00: Supervised practice: [Supervised text classification](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/ml_textclassification.md)
 + Fri PM: **Web Scraping and preprocessing**
