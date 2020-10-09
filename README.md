@@ -86,11 +86,17 @@ Schedule and materials: (will be updated during the course)
   + 14:00: Plenary Session / Q&A
   + 14:30 - 16:00: Supervised practice: [Structural Topic Models](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_stm.md)
   
-+ Fri AM: **Simple Web Scraping and preprocessing**
++ Fri AM: **Supervised Text Classification**
   + Preparation / background reading:
-    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 13
-  + 9:00: Video lecture: **Web scraping**, **Preprocessing**
-  + 10:00: Plenary session / Q&A
-  + 10:30 - 12:00:Supervised practice: **Scraping with rvest**, **Accessing social media APIs**, [Linguistic Preprocessing](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_nlp.md)
-+ Fri PM: **Supervised Text Classification**
+    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 9 and 12.2
+    + [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), esp. [chapter 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
+  + 10:00 Live lecture: [Machine Learning and Supervised Text Classification](https://docs.google.com/presentation/d/11uZrdmnZVHJdzNyNipfUITARHtsuBlFCIcJDVH1DDyM/edit?usp=sharing)
+  + 11:00 - 12:00: Supervised practice: [Supervised text classification](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/ml_textclassification.md)
++ Fri PM: **Web Scraping and preprocessing**
+  + Preparation / background reading:
+    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 11 (esp. 11.3 & 11.4) and 13
+    + [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), esp. [chapter 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
+    + [Denny & Stirling (2017): Text Preprocessing for Unsupervised Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2849145)
+  + 14:00: Plenary session / Q&A / Conclusions
+  + 15:00 - 16:00:Supervised practice: [Scraping with rvest](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/rvest.md) [Linguistic processing](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_nlp.md)
 
